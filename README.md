@@ -2,9 +2,12 @@
 
 > A cinematic HR & workforce management dashboard — built as a demo by [Vesa Studios](https://vesastudios.site)
 
-![Status](https://img.shields.io/badge/status-demo-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
 ![Built with](https://img.shields.io/badge/built%20with-React%20%2B%20Vite-61dafb?style=flat-square)
 ![Styled with](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38bdf8?style=flat-square)
+![Deployed on](https://img.shields.io/badge/deployed%20on-Vercel-black?style=flat-square&logo=vercel)
+
+## 🔗 [Live Demo → workaholic.vercel.app](https://workaholic.vercel.app)
 
 ---
 
@@ -39,6 +42,7 @@ This project is a **showcase demo** — built to demonstrate what Vesa Studios c
 | Tailwind CSS | Styling |
 | Framer Motion | Animations |
 | Lucide React | Icons |
+| Vercel | Deployment |
 
 ---
 
