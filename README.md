@@ -7,7 +7,7 @@
 ![Styled with](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38bdf8?style=flat-square)
 ![Deployed on](https://img.shields.io/badge/deployed%20on-Vercel-black?style=flat-square&logo=vercel)
 
-## 🔗 [Live Demo → workaholic.vercel.app](https://workaholic.vercel.app)
+## 🔗 [Live Demo → workaholic-swart.vercel.app](https://workaholic-swart.vercel.app)
 
 ---
 
